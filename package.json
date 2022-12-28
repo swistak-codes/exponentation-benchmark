@@ -1,0 +1,17 @@
+{
+  "name": "exponentation-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswistak/exponentation-benchmark.git"
+  },
+  "author": "Tomasz Swistak",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
